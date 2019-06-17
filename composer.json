@@ -1,0 +1,6 @@
+{
+    "name": "lucas/certifico",
+    "require": {
+        "slim/slim": "^2.6"
+    }
+}
